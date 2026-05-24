@@ -1,11 +1,5 @@
 package main
 
-/*
-	El import "html/template" es la carpeta de template
-	para que go
-	muestre la pagina de template, ya que html solo es
-	lo visual pero go es quien abre la pagina y lo conecta
-*/
 import (
 	"fmt"
 	"html/template"
